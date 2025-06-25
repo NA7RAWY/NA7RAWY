@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahrawy/)
 [![GitHub](https://img.shields.io/github/followers/NA7RAWY?label=Follow&style=social)](https://github.com/NA7RAWY)
-![GitHub Repos](https://img.shields.io/badge/GitHub%20Repos-9-%230A0A0A)
+![GitHub Repos](https://img.shields.io/badge/GitHub%20Repos-10-%230A0A0A)
 ![Profile Views](https://komarev.com/ghpvc/?username=NA7RAWY&color=brightgreen)
 
 🌟 **Welcome to my GitHub space!**  
