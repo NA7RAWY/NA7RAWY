@@ -1,66 +1,92 @@
-## 🧠 Mahmoud Elnahrawy — AI & Backend Engineer
+## 👋 Hi there, I'm Mahmoud Elnahrawy!
 
-Welcome to my private GitHub profile README — this version is meant for advanced reviewers, recruiters, or collaborators who want a deeper look at my actual skillset and technical mindset.
-
----
-
-### 🧩 Who I Am
-
-I engineer intelligent systems. I don’t just build models — I deploy pipelines. I don’t just write code — I solve real-world problems with production-ready, scalable architecture.
-
-I'm specialized in **Generative AI**, **Retrieval-Augmented Generation (RAG)**, **backend system design**, and **automation workflows** — with strong foundations in Python, data engineering, and systems thinking.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahrawy/)
+[![GitHub](https://img.shields.io/github/followers/NA7RAWY?label=Follow&style=social)](https://github.com/NA7RAWY)
+![GitHub Repos](https://img.shields.io/badge/Public%20Repos-12-%230A0A0A)
+![Profile Views](https://komarev.com/ghpvc/?username=NA7RAWY&color=brightgreen)
 
 ---
 
-### ⚙️ Tech Pillars
+### 🚀 AI Engineer | Backend Developer | Problem Solver
 
-* **AI & LLMs**: Gemini Pro, LangChain, sentence-transformers, FAISS
-* **Backend**: FastAPI, Flask, PostgreSQL, MongoDB, RESTful APIs
-* **Infra**: Linux, GitHub Actions, .env management, deployment automation
-* **Data**: Pandas, Scikit-learn, Power BI, real-time data mining
-* **Dev Approach**: Modular, minimal, clean architecture with documented logic
+I'm Mahmoud, a passionate **AI & Backend Engineer** who transforms ideas into intelligent, scalable, and elegant systems. Whether it's building Gemini-powered RAG pipelines, designing REST APIs, or mining insights from raw data — I thrive where **engineering meets intelligence**.
 
 ---
 
-### 🚀 Core Projects
-
-#### [Gemini-Powered RAG Assistant](https://github.com/NA7RAWY/Gemini-Powered-RAG-Assistant)
-
-A fully working AI assistant that retrieves relevant knowledge chunks using FAISS and embeds context into Gemini Pro prompts. Handles multi-turn queries and file input.
-
-#### [Google Search Scraper](https://github.com/NA7RAWY/Google_Search_Scraper)
-
-An automated Playwright + BeautifulSoup-based scraper that extracts structured content from Google SERPs into JSON. Ready for integration with NLP workflows.
-
-#### [Mongo Task API](https://github.com/NA7RAWY/Mongo-Task)
-
-Task management system built on FastAPI and MongoDB. Includes role-based access, auth, and CRUD logic — a strong REST API foundation.
-
-#### [LLM Chatbot Agent](https://github.com/NA7RAWY/Chatbot-Agent-)
-
-Voice + File-based chatbot assistant using Gemini. Demonstrates advanced context compression, reasoning flow, and file ingestion.
-
-#### [Transformer Health Predictor](https://github.com/NA7RAWY/Power-Transformer-Health-Life-Prediction)
-
-ML-based fault prediction system on gas analysis datasets — fusing electrical engineering with AI modeling.
+### 🔍 Quick Facts:
+- 🎓 Computer Science Student, Class of 2025
+- ⚙️ Backend & AI Developer | FastAPI, Gemini, MongoDB, FAISS
+- 📍 Based in Egypt — open to remote roles worldwide
+- 🤝 Open to internships, freelance, and AI product collaborations
 
 ---
 
-### 🧠 Mindset
-
-> "If it’s not usable, it’s not useful."
-
-Every project I build is tested, documented, and built with clarity in mind. I believe in high-impact code — not overengineering. I often rebuild tools I don’t like. I document my logic. And I focus on real value.
-
----
-
-### 📫 Contact
-
-* 📩 Email: [mahmoudelnahrawywork@gmail.com](mailto:mahmoudelnahrawywork@gmail.com)
-* 🔗 LinkedIn: [linkedin.com/in/nahrawy](https://linkedin.com/in/nahrawy)
-
-Let’s collaborate if you’re building something that demands smart systems, clean data flow, and real intelligence.
+### 🧠 What I Do:
+- 🔧 **Backend Engineering**: Clean REST APIs, secure auth, NoSQL/SQL logic
+- 🧠 **Applied AI**: Gemini Pro, RAG, embedding systems, LLM assistants
+- 🧬 **ML & Data Science**: Regression, classification, clustering
+- 📊 **BI & Visualization**: Power BI, pandas, data storytelling
 
 ---
 
-<!-- Hidden README for technical reviewers and collaborators only -->
+### 🚀 Highlighted Projects:
+
+#### 🧠 [Gemini-Powered RAG Assistant](https://github.com/NA7RAWY/Gemini-Powered-RAG-Assistant)
+End-to-end AI assistant using FAISS + sentence-transformers + Gemini Pro for high-precision answers.
+
+#### 🌐 [Google Search Scraper](https://github.com/NA7RAWY/Google_Search_Scraper)
+Structured web scraping of Google results using Playwright + BeautifulSoup.
+
+#### 🧩 [Chatbot Agent](https://github.com/NA7RAWY/Chatbot-Agent-)
+Gemini-powered assistant that understands voice & documents — clean, fast, and multilingual.
+
+#### 🍃 [Mongo Task](https://github.com/NA7RAWY/Mongo-Task)
+A FastAPI + MongoDB task manager with JWT auth and full CRUD functionality.
+
+#### ⚡ [Power Transformer Health Predictor](https://github.com/NA7RAWY/Power-Transformer-Health-Life-Prediction)
+Predicts faults in electrical power systems using ML models.
+
+#### 🏋️‍♂️ [Health Workout Data Mining](https://github.com/NA7RAWY/Comprehensive-Data-Mining-on-Health-Workout-Dataset)
+ML-based insights from a fitness dataset using clustering, classification, and EDA.
+
+---
+
+### 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📜 Certifications:
+- 🐍 Python Programming – Mahara-Tech AI Academy
+- 🤖 AI & Deep Learning – Zewail City
+- 🧠 AI Career Track – ALX
+- ⏱️ Time & Task Management – EG Bank
+
+---
+
+### 📈 GitHub Activity:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NA7RAWY&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NA7RAWY&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NA7RAWY&theme=radical)
+
+---
+
+### 🤝 Let's Connect
+- 📬 [mahmoudelnahrawywork@gmail.com](mailto:mahmoudelnahrawywork@gmail.com)
+- 🔗 [LinkedIn Profile](https://linkedin.com/in/nahrawy)
+
+> *\"Solve real problems. Build real impact. Never stop learning.\"*
