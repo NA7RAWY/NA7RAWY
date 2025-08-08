@@ -14,7 +14,7 @@ I'm Mahmoud, a passionate **AI & Backend Engineer** who transforms ideas into in
 ---
 
 ### 🔍 Quick Facts:
-- 🎓 Computer Science Student, Class of 2025
+- 🎓 Computer Science Student, Class of 2026
 - ⚙️ Backend & AI Developer | FastAPI, Gemini, MongoDB, FAISS
 - 📍 Based in Egypt — open to remote roles worldwide
 - 🤝 Open to internships, freelance, and AI product collaborations
