@@ -1,84 +1,66 @@
-## 👋 Hi, I'm Mahmoud Elnahrawy
+## 🧠 Mahmoud Elnahrawy — AI & Backend Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahrawy/)
-[![GitHub](https://img.shields.io/github/followers/NA7RAWY?label=Follow&style=social)](https://github.com/NA7RAWY)
-![GitHub Repos](https://img.shields.io/badge/Public%20Repos-12-%230A0A0A)
-![Views](https://komarev.com/ghpvc/?username=NA7RAWY&color=brightgreen)
+Welcome to my private GitHub profile README — this version is meant for advanced reviewers, recruiters, or collaborators who want a deeper look at my actual skillset and technical mindset.
 
 ---
 
-🌟 **Welcome to my GitHub!**  
-I'm a passionate **AI & backend developer** who transforms ideas into real, usable, and scalable systems. I thrive on solving complex problems using first-principles thinking, data-driven decisions, and smart automation.
+### 🧩 Who I Am
+
+I engineer intelligent systems. I don’t just build models — I deploy pipelines. I don’t just write code — I solve real-world problems with production-ready, scalable architecture.
+
+I'm specialized in **Generative AI**, **Retrieval-Augmented Generation (RAG)**, **backend system design**, and **automation workflows** — with strong foundations in Python, data engineering, and systems thinking.
 
 ---
 
-### 💼 What I Do
-- 🔧 Build robust **backend architectures** and RESTful APIs
-- 🧠 Develop practical **machine learning** pipelines
-- 🤖 Apply **LLMs & Generative AI** to real-world use cases
-- 🔍 Explore **data mining** to uncover actionable insights
+### ⚙️ Tech Pillars
+
+* **AI & LLMs**: Gemini Pro, LangChain, sentence-transformers, FAISS
+* **Backend**: FastAPI, Flask, PostgreSQL, MongoDB, RESTful APIs
+* **Infra**: Linux, GitHub Actions, .env management, deployment automation
+* **Data**: Pandas, Scikit-learn, Power BI, real-time data mining
+* **Dev Approach**: Modular, minimal, clean architecture with documented logic
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Core Projects
 
-- 🧠 [Gemini RAG Assistant](https://github.com/NA7RAWY/Gemini-Powered-RAG-Assistant)  
-AI assistant combining Google Gemini + FAISS for smart context-aware Q&A (LLM + Retrieval)
+#### [Gemini-Powered RAG Assistant](https://github.com/NA7RAWY/Gemini-Powered-RAG-Assistant)
 
-- 🌐 [Google Search Scraper](https://github.com/NA7RAWY/Google_Search_Scraper)  
-Efficiently scrapes structured data from search results using Playwright and BeautifulSoup.
+A fully working AI assistant that retrieves relevant knowledge chunks using FAISS and embeds context into Gemini Pro prompts. Handles multi-turn queries and file input.
 
-- 🤖 [Chatbot Agent](https://github.com/NA7RAWY/Chatbot-Agent-)  
-A Gemini-powered assistant that reads files, listens to voice, and compresses conversation context smartly.
+#### [Google Search Scraper](https://github.com/NA7RAWY/Google_Search_Scraper)
 
-- 🧩 [Sudoku Solver](https://github.com/NA7RAWY/Sudoku-Project)  
-C++ project solving and visualizing Sudoku boards using logical algorithms.
+An automated Playwright + BeautifulSoup-based scraper that extracts structured content from Google SERPs into JSON. Ready for integration with NLP workflows.
 
-- 🍃 [Mongo Task Manager](https://github.com/NA7RAWY/Mongo-Task)  
-Task manager with clean design using Python, FastAPI, and MongoDB. (NoSQL + REST)
+#### [Mongo Task API](https://github.com/NA7RAWY/Mongo-Task)
 
-- ⚡ [Power Transformer Life Prediction](https://github.com/NA7RAWY/Power-Transformer-Health-Life-Prediction)  
-ML-based health prediction system for transformers using gas analysis data.
+Task management system built on FastAPI and MongoDB. Includes role-based access, auth, and CRUD logic — a strong REST API foundation.
 
----
+#### [LLM Chatbot Agent](https://github.com/NA7RAWY/Chatbot-Agent-)
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+Voice + File-based chatbot assistant using Gemini. Demonstrates advanced context compression, reasoning flow, and file ingestion.
+
+#### [Transformer Health Predictor](https://github.com/NA7RAWY/Power-Transformer-Health-Life-Prediction)
+
+ML-based fault prediction system on gas analysis datasets — fusing electrical engineering with AI modeling.
 
 ---
 
-### 📜 Certifications
-- 🐍 Python Programming – Mahara-Tech AI Academy  
-- 🤖 Intro to AI (Deep Learning) – Zewail City  
-- 🧠 AI Career Essentials – ALX  
-- ⏱️ Time Management & Marketing – EG Bank
+### 🧠 Mindset
+
+> "If it’s not usable, it’s not useful."
+
+Every project I build is tested, documented, and built with clarity in mind. I believe in high-impact code — not overengineering. I often rebuild tools I don’t like. I document my logic. And I focus on real value.
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=NA7RAWY&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NA7RAWY&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NA7RAWY&theme=radical)
+### 📫 Contact
+
+* 📩 Email: [mahmoudelnahrawywork@gmail.com](mailto:mahmoudelnahrawywork@gmail.com)
+* 🔗 LinkedIn: [linkedin.com/in/nahrawy](https://linkedin.com/in/nahrawy)
+
+Let’s collaborate if you’re building something that demands smart systems, clean data flow, and real intelligence.
 
 ---
 
-### 🤝 Let's Connect
-I'm open to:
-- 🧠 Collaborating on open-source AI or backend projects
-- 💬 Discussing ideas in Generative AI and system design
-- 🎯 Building practical tools that solve real problems
-
-📩 [mahmoudelnahrawywork@gmail.com](mailto:mahmoudelnahrawywork@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nahrawy/) | [GitHub](https://github.com/NA7RAWY)
-
----
-
-*Thanks for visiting! Stay curious 🚀*
+<!-- Hidden README for technical reviewers and collaborators only -->
