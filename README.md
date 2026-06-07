@@ -120,10 +120,14 @@ Capital University (Formerly Helwan University)
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NA7RAWY\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NA7RAWY&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NA7RAWY&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NA7RAWY\&layout=compact\&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NA7RAWY&theme=tokyonight" />
+</p>
 ---
 
 ## 🤝 Let's Connect
