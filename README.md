@@ -2,28 +2,32 @@
 
 ### AI Engineer | LLM Applications | RAG Systems | AI Agents | FastAPI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nahrawy/)
-[![GitHub](https://img.shields.io/github/followers/NA7RAWY?label=Follow\&style=social)](https://github.com/NA7RAWY)
+<p align="left">
+  <a href="https://www.linkedin.com/in/nahrawy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/NA7RAWY">
+    <img src="https://img.shields.io/github/followers/NA7RAWY?label=Follow&style=social" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an AI Engineer focused on building production-ready AI applications powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and scalable backend systems.
+I'm an AI Engineer focused on building production-ready AI applications powered by **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI Agents**, and scalable backend systems.
 
-I enjoy designing intelligent systems that combine:
+I enjoy designing intelligent products that combine AI workflows with real software engineering, including:
 
 * AI Agents
 * Tool Calling
-* OCR
-* Speech-to-Text
+* OCR Systems
+* Speech-to-Text Pipelines
 * Retrieval Pipelines
-* FastAPI Services
+* FastAPI Backend Services
 * Clean Architecture
 
-My goal is simple:
-
-> Build AI products that solve real-world problems.
+> My goal is to build AI products that solve real-world problems.
 
 ---
 
@@ -43,30 +47,27 @@ My goal is simple:
 
 ### AI & Generative AI
 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python\&logoColor=white\&style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-FF6B00?style=for-the-badge)
-
-**LLMs • RAG • AI Agents • Tool Calling • Embeddings • Vector Search • FAISS • Whisper STT • OCR**
-
----
+`LLMs` `RAG` `AI Agents` `Tool Calling` `Prompt Engineering`
+`Embeddings` `Vector Search` `FAISS` `OCR` `Whisper STT` `Google TTS`
 
 ### Backend Engineering
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white\&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql\&logoColor=white\&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb\&logoColor=white\&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white\&style=for-the-badge)
+`Python` `FastAPI` `Flask` `REST APIs` `JWT` `OAuth`
+`PostgreSQL` `MongoDB` `MySQL` `SQL Server` `Docker` `Clean Architecture`
 
-**FastAPI • REST APIs • JWT • PostgreSQL • MongoDB • Docker • Clean Architecture**
+### Tools
+
+`Git` `GitHub` `Postman` `Jupyter Notebook` `Playwright` `BeautifulSoup`
 
 ---
 
-## ⭐ Featured Projects
+# ⭐ Featured Projects
 
-### 💰 Finexa AI Assistant
+## 💰 Finexa AI Assistant
 
-AI-powered personal finance platform that combines:
+AI-powered personal finance platform designed to automate financial tracking using AI workflows.
+
+### Key Features
 
 * OCR Receipt Processing
 * Speech-to-Text Transaction Capture
@@ -75,42 +76,64 @@ AI-powered personal finance platform that combines:
 * Tool Calling Workflows
 * FastAPI Backend Services
 
-🔗 Repository:
+🔗 **Repository:**
 https://github.com/NA7RAWY/finexa-ai-services
 
 ---
 
-### 🧠 Gemini-Powered RAG Assistant
+## 🧠 Gemini-Powered RAG Assistant
 
-Production-ready Retrieval-Augmented Generation system using:
+Document question-answering system powered by Retrieval-Augmented Generation.
+
+### Built With
 
 * Gemini
 * FAISS
 * Sentence Transformers
 * Semantic Search
+* FastAPI
 
-🔗 Repository:
+🔗 **Repository:**
 https://github.com/NA7RAWY/Gemini-Powered-RAG-Assistant
 
 ---
 
-### 🎙 Chat & Voice Agent
+## 🎙 Chat & Voice Agent
 
-Multilingual AI assistant supporting:
+Multilingual conversational assistant supporting voice interaction.
 
-* Speech-to-Text
-* Text-to-Speech
+### Built With
+
+* Gemini
+* Whisper STT
+* Google TTS
 * Conversational Memory
-* Gemini-powered Responses
+* Arabic & English Support
 
-🔗 Repository:
+🔗 **Repository:**
 https://github.com/NA7RAWY/Chatbot-Agent-
 
 ---
 
-## 📚 Education
+## 🕷 Google Search Scraper
 
-🎓 B.Sc. Computer Science & Artificial Intelligence
+Automated search scraping tool for structured data extraction.
+
+### Built With
+
+* Python
+* Playwright
+* BeautifulSoup
+* Structured JSON Output
+
+🔗 **Repository:**
+https://github.com/NA7RAWY/Google_Search_Scraper
+
+---
+
+## 🎓 Education
+
+**B.Sc. Computer Science & Artificial Intelligence**
 
 Capital University (Formerly Helwan University)
 
@@ -118,34 +141,29 @@ Capital University (Formerly Helwan University)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NA7RAWY&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=NA7RAWY&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NA7RAWY&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NA7RAWY&theme=tokyonight" />
-</p>
 ---
 
 ## 🤝 Let's Connect
 
-📧 [mahmoudelnahrawywork@gmail.com](mailto:mahmoudelnahrawywork@gmail.com)
+📧 **Email:**
+[mahmoudelnahrawywork@gmail.com](mailto:mahmoudelnahrawywork@gmail.com)
 
-💼 LinkedIn:
+💼 **LinkedIn:**
 https://linkedin.com/in/nahrawy
 
-🌍 Open to:
+🌍 **Open to:**
 
 * AI Engineer Roles
 * GenAI Engineer Roles
 * Backend AI Engineer Roles
 * Freelance AI Projects
+* AI Product Collaborations
 
 ---
 
